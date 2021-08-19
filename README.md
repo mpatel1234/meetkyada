@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meetkyada
-- 👀 I’m currently learning Flutter
+- 👀 I’m Flutter Developer
 
 
 <!---
